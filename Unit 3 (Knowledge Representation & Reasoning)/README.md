@@ -150,3 +150,11 @@ print("Processed Tokens:", filtered_words)
 1. How do forward and backward chaining differ in real-world applications?
 2. Why is predicate logic more powerful than propositional logic?
 3. How does knowledge representation impact AI-driven decision-making?
+
+## Author
+
+**Harshit Soni**  
+GitHub: [Harshit-Soni78](https://github.com/Harshit-Soni78)
+
+---
+Made with ❤️ by Harshit Soni

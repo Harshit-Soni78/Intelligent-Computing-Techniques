@@ -109,3 +109,11 @@ Fuzzy logic is widely used in decision-making applications where uncertainty exi
 1. How does fuzzy logic differ from traditional Boolean logic?
 2. What are the advantages of fuzzy inference systems in real-world applications?
 3. Why is fuzzy logic useful in situations with uncertainty and imprecision?
+
+## Author
+
+**Harshit Soni**  
+GitHub: [Harshit-Soni78](https://github.com/Harshit-Soni78)
+
+---
+Made with ❤️ by Harshit Soni

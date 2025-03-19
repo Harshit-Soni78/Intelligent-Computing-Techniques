@@ -63,3 +63,11 @@ Here’s how we can approach each unit practically:
   - Compare crisp vs. fuzzy classification.
 
 ---
+
+## Author
+
+**Harshit Soni**  
+GitHub: [Harshit-Soni78](https://github.com/Harshit-Soni78)
+
+---
+Made with ❤️ by Harshit Soni

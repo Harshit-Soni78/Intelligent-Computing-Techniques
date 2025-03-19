@@ -108,3 +108,11 @@ print(feeling_sim.output['feeling'])  # Output: Neutral feeling level
 3. Can soft computing techniques be combined for better results? (Hybrid Soft Computing)
 
 ---
+
+## Author
+
+**Harshit Soni**  
+GitHub: [Harshit-Soni78](https://github.com/Harshit-Soni78)
+
+---
+Made with ❤️ by Harshit Soni

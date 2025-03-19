@@ -133,3 +133,11 @@ print("Predictions:", model.predict(X).round())
 1. Why do neural networks require activation functions?
 2. What challenges exist in training deep neural networks?
 3. How does backpropagation optimize neural network weights?
+
+## Author
+
+**Harshit Soni**  
+GitHub: [Harshit-Soni78](https://github.com/Harshit-Soni78)
+
+---
+Made with ❤️ by Harshit Soni

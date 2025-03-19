@@ -157,3 +157,11 @@ print("A* Path from A to F:", a_star(graph, 'A', 'F', heuristic))
 1. How does informed search improve upon uninformed search?
 2. Why does Hill Climbing sometimes get stuck in local optima?
 3. What real-world applications use A\* and heuristic-based search?
+
+## Author
+
+**Harshit Soni**  
+GitHub: [Harshit-Soni78](https://github.com/Harshit-Soni78)
+
+---
+Made with ❤️ by Harshit Soni
