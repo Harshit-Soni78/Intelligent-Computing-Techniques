@@ -1,0 +1,30 @@
+Open Elective : Intelligent Computing Techniques
+
+Unit 1 : Soft Computing: Introduction of soft computing, soft computing vs. hard computing, various types of soft computing techniques, applications of soft computing.
+
+Unit 2 : Artificial Intelligence: Introduction, Various types of production systems, characteristics of production systems, breadth first search, depth first search techniques, other Search Techniques like hill Climbing, Best first Search, A* algorithm, AO* Algorithms and various types of control strategies.
+
+Unit 3 : Knowledge representation issues, Prepositional and predicate logic, monotonic and non monotonic reasoning, forward Reasoning, backward reasoning, Weak & Strong Slot & filler structures, NLP.
+
+Unit 4 : Neural Network: Structure and Function of a single neuron: Biological neuron, artificial neuron, definition of ANN, Taxonomy of neural net, Difference between ANN and human brain, characteristics and applications of ANN, single layer network, Perceptron training algorithm.
+
+Unit 5 : Fuzzy rule base system fuzzy propositions, formation, decomposition & aggregation of fuzzy rules, fuzzy reasoning, fuzzy inference systems, fuzzy decision making & Applications of fuzzy logic.
+
+
+
+hay gpt!
+I am giving you the syllabus of my Open Elective : Soft Computing Techniques
+
+Unit 1 : Soft Computing: Introduction of soft computing, soft computing vs. hard computing, various types of soft computing techniques, applications of soft computing.
+
+Unit 2 : Artificial Intelligence: Introduction, Various types of production systems, characteristics of production systems, breadth first search, depth first search techniques, other Search Techniques like hill Climbing, Best first Search, A* algorithm, AO* Algorithms and various types of control strategies.
+
+Unit 3 : Knowledge representation issues, Prepositional and predicate logic, monotonic and non monotonic reasoning, forward Reasoning, backward reasoning, Weak & Strong Slot & filler structures, NLP.
+
+Unit 4 : Neural Network: Structure and Function of a single neuron: Biological neuron, artificial neuron, definition of ANN, Taxonomy of neural net, Difference between ANN and human brain, characteristics and applications of ANN, single layer network, Perceptron training algorithm.
+
+Unit 5 : Fuzzy rule base system fuzzy propositions, formation, decomposition & aggregation of fuzzy rules, fuzzy reasoning, fuzzy inference systems, fuzzy decision making & Applications of fuzzy logic.
+
+Please analyse this syllabus, I want to conduct few hands-on sessions to cover practical and theoritical aspacts of this syllabus.
+
+First analyse this syllabus and let me know if you are ready to give me some contant for each unit so that I can conduct few hands-on sessions to cover practical and theoritical aspacts of this syllabus.
