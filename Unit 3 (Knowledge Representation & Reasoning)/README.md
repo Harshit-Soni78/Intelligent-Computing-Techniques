@@ -1,5 +1,9 @@
 # **Unit 3: Knowledge Representation & Reasoning**
 
+- **Run Knowledge Representation & Reasoning(Hands-on).ipynb Notebook in Google Colab:** <a href="https://colab.research.google.com/github/Harshit-Soni78/Intelligent-Computing-Techniques/blob/main/Unit%203%20(Knowledge%20Representation%20%26%20Reasoning)/Knowledge%20Representation%20%26%20Reasoning(Hands-on).ipynb" target="_blank">Click Here 🔗</a>
+
+---
+
 ## **1. Introduction to Knowledge Representation (KR)**
 
 Knowledge Representation (KR) is a key aspect of AI that involves storing and organizing knowledge to enable reasoning and decision-making.
