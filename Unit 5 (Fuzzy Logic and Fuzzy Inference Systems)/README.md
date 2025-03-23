@@ -1,5 +1,9 @@
 # **Unit 5: Fuzzy Logic and Fuzzy Inference Systems**
 
+- **Run Fuzzy Logic and Fuzzy Inference Systems(Hands-on).ipynb Notebook in Google Colab:** <a href="https://colab.research.google.com/github/Harshit-Soni78/Intelligent-Computing-Techniques/blob/main/Unit%205%20(Fuzzy%20Logic%20and%20Fuzzy%20Inference%20Systems)/Fuzzy%20Logic%20and%20Fuzzy%20Inference%20Systems(Hands-on).ipynb" target="_blank">Click Here 🔗</a>
+
+---
+
 ## **1. Introduction to Fuzzy Logic**
 
 Fuzzy logic is a form of many-valued logic that deals with reasoning that is approximate rather than fixed and exact. Unlike classical binary logic (true/false), fuzzy logic allows for intermediate values (partially true/false).
