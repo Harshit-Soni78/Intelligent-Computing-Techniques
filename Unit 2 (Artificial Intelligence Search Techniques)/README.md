@@ -1,5 +1,9 @@
 # **Unit 2: Artificial Intelligence Search Techniques**
 
+- **Run Artificial Intelligence Search Techniques(Hands-on).ipynb Notebook in Google Colab:** <a href="https://colab.research.google.com/github/Harshit-Soni78/Intelligent-Computing-Techniques/blob/main/Unit%202%20(Artificial%20Intelligence%20Search%20Techniques)/Artificial%20Intelligence%20Search%20Techniques(Hands-on).ipynb" target="_blank">Click Here 🔗</a>
+
+---
+
 ## **1. Introduction to AI Search Techniques**
 
 ### **What is Search in AI?**
