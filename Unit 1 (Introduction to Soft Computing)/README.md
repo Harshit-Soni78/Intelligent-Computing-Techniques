@@ -1,5 +1,11 @@
 # **Unit 1: Introduction to Soft Computing**
 
+- **Run Introduction to Soft Computing(Hands-on) V-2.ipynb Notebook in Google Colab:** <a href="https://colab.research.google.com/github/Harshit-Soni78/Intelligent-Computing-Techniques/blob/main/Unit%201%20(Introduction%20to%20Soft%20Computing)/Introduction%20to%20Soft%20Computing(Hands-on)%20V-2.ipynb" target="_blank">Click Here 🔗</a>
+
+- **Run Introduction to Soft Computing(Hands-on).ipynb Notebook in Google Colab:** <a href="https://colab.research.google.com/github/Harshit-Soni78/Intelligent-Computing-Techniques/blob/main/Unit%201%20(Introduction%20to%20Soft%20Computing)/Introduction%20to%20Soft%20Computing(Hands-on).ipynb" target="_blank">Click Here 🔗</a>
+
+---
+
 ## **1. Introduction to Soft Computing**
 
 ### **What is Soft Computing?**
